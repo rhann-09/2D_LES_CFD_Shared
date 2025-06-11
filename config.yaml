@@ -1,0 +1,35 @@
+buildings:
+  building_0:
+    x_0: 650
+    x_1: 665
+    y_0: 0
+    y_1: 100
+  building_1:
+    x_0: 700
+    x_1: 715
+    y_0: 0
+    y_1: 105
+  building_2:
+    x_0: 800
+    x_1: 815
+    y_0: 0
+    y_1: 95
+constants:
+  M: 200
+  N: 1600
+  T_ref: 300
+  alpha_T: 2.239e-05
+  alpha_pollutant: 10
+  atm: 1
+  beta: 0.003333
+  cfl: 0.65
+  decimals: 9
+  dt: 5.0e-05
+  dx: 0.00125
+  dyf: 0.00025
+  g: 2.0
+  nu: 1.569e-05
+  rho: 1.225
+  total_t: 10
+  xmax: 2
+  ymax: 0.25
